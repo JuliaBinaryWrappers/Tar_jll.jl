@@ -1,0 +1,97 @@
+[[Tar]]
+arch = "i686"
+git-tree-sha1 = "6632944eafc5d143ae10ab589257361abbe73535"
+libc = "glibc"
+os = "linux"
+
+    [[Tar.download]]
+    sha256 = "00fe3841827a3426cf6525d331420772f649790a4f1b4f48860ed15ae051c358"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.i686-linux-gnu.tar.gz"
+[[Tar]]
+arch = "i686"
+git-tree-sha1 = "0ef021f1f6b5ca73989a40657621e6ba63bbe58f"
+libc = "musl"
+os = "linux"
+
+    [[Tar.download]]
+    sha256 = "a9594713e7f919ff37f8c65a6b9a6884292c777e68ee9c5f81cb9f90578215ce"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.i686-linux-musl.tar.gz"
+[[Tar]]
+arch = "x86_64"
+git-tree-sha1 = "a7b50261ee7328d41b2f00d541749b8e00bc0bb0"
+os = "macos"
+
+    [[Tar.download]]
+    sha256 = "ebd1fbdbc0e2dbdcdc1fd175627dbdcd918960b3d9252f4b4b9617f9470dc24c"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.x86_64-apple-darwin14.tar.gz"
+[[Tar]]
+arch = "powerpc64le"
+git-tree-sha1 = "c44769611a10e5598c4e99eb4e3845dda22be9b5"
+libc = "glibc"
+os = "linux"
+
+    [[Tar.download]]
+    sha256 = "fc9aac114ede99c3a520ac3dc92af0663bdc3c31f85e5480ab4feae1edfb279f"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.powerpc64le-linux-gnu.tar.gz"
+[[Tar]]
+arch = "aarch64"
+git-tree-sha1 = "741e12bd733d766ff59678ea56c19b4ff50e12b8"
+libc = "glibc"
+os = "linux"
+
+    [[Tar.download]]
+    sha256 = "73abbd3e025895c57e821dcff204ce7a1c092e8ed6708211a09896823a321998"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.aarch64-linux-gnu.tar.gz"
+[[Tar]]
+arch = "x86_64"
+git-tree-sha1 = "0940f7fbf7633503af6cc49f9ffe5c44dc760f1a"
+libc = "musl"
+os = "linux"
+
+    [[Tar.download]]
+    sha256 = "17fdfb2ecd0ebb8557ab54e64dffc2f31d4043b59deb4e6dfe64199176097563"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.x86_64-linux-musl.tar.gz"
+[[Tar]]
+arch = "aarch64"
+git-tree-sha1 = "91a0b3655ac009b94fe798fe2f75b276d462dfd4"
+libc = "musl"
+os = "linux"
+
+    [[Tar.download]]
+    sha256 = "37e13bf646884931cccd4f364d76992a4621b50130e07eda3df4143f9ac0e405"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.aarch64-linux-musl.tar.gz"
+[[Tar]]
+arch = "armv7l"
+git-tree-sha1 = "0640a85558a22996cecb020858223150e0f1015d"
+libc = "musl"
+os = "linux"
+
+    [[Tar.download]]
+    sha256 = "2418a8ba5c99701f525e8e46ee095c9c06dae937b32b9304c54655b3dca91c8c"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.arm-linux-musleabihf.tar.gz"
+[[Tar]]
+arch = "x86_64"
+git-tree-sha1 = "0c86a90b1dcca1c9043499d2ffca348beb07461c"
+os = "freebsd"
+
+    [[Tar.download]]
+    sha256 = "ec806c06e39e04e9b2084253d10a04dd343f098d1f0f1452eb3ca6ff69eaf997"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Tar]]
+arch = "armv7l"
+git-tree-sha1 = "4181735d20adb7a3d554f40e8c1748437253375a"
+libc = "glibc"
+os = "linux"
+
+    [[Tar.download]]
+    sha256 = "9e44ab9da0622503bfe014a53fc3837e29421324d5bb2c1d5582c1c3c37d8c6c"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.arm-linux-gnueabihf.tar.gz"
+[[Tar]]
+arch = "x86_64"
+git-tree-sha1 = "4e10b2494d36d1f3be28c758cafe7d99783968e8"
+libc = "glibc"
+os = "linux"
+
+    [[Tar.download]]
+    sha256 = "098057190debd081789c81af61a3391a3de2df7065aae27bbbeadca7b1403928"
+    url = "https://github.com/JuliaBinaryWrappers/Tar_jll.jl/releases/download/Tar-v1.32.0+0/Tar.v1.32.0.x86_64-linux-gnu.tar.gz"

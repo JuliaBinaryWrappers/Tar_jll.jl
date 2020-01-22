@@ -1,0 +1,11 @@
+name = "Tar_jll"
+uuid = "9b64493d-8859-5bf3-93d7-7c32dd38186f"
+version = "1.32.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Attr_jll = "1fd713ca-387f-5abc-8002-d8b8b1623b73"
+
+[compat]
+julia = "1.0"
