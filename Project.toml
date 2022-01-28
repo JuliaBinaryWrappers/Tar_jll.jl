@@ -1,11 +1,10 @@
 name = "Tar_jll"
 uuid = "9b64493d-8859-5bf3-93d7-7c32dd38186f"
-version = "1.34.0+0"
+version = "1.34.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
-acl_jll = "ed5aba05-e74d-5cf7-8b09-107ba3463b8e"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Attr_jll = "1fd713ca-387f-5abc-8002-d8b8b1623b73"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
